@@ -1,0 +1,11 @@
+{
+    "tabnine.experimentalAutoImports": true,
+    "editor.mouseWheelZoom": true,
+    "files.autoSave": "afterDelay",
+    "editor.formatOnSave": true,
+    "window.zoomLevel": -1,
+    "markdown.marp.enableHtml": true,
+    "markdown.marp.themes": [
+        "./themes/lab_default.css"
+    ]
+}
